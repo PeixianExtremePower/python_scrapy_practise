@@ -2,6 +2,6 @@ print('hello world')
 print('caohaodong is a cool boy')
 <<<<<<< HEAD
 print
-=======
+
 print
->>>>>>> f1
+
