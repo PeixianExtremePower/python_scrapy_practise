@@ -1,3 +1,7 @@
 print('hello world')
 print('caohaodong is a cool boy')
-print('i love yumeng')
+<<<<<<< HEAD
+print
+=======
+print
+>>>>>>> f1
